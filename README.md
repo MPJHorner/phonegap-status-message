@@ -9,7 +9,7 @@ Use the cordova CLI:
 
 #### Install
 
-```cordova plugin add https://github.com/willshaw/phonegap-status-message.git```
+```cordova plugin add https://github.com/MPJHorner/phonegap-status-message.git```
 
 #### Setup
 
